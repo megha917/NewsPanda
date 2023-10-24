@@ -1,266 +1,1306 @@
 {
     "status": "ok",
-    "totalResults": 23,
+    "totalResults": 11360,
     "articles": [
         {
             "source": {
-                "id": "techradar",
-                "name": "TechRadar"
+                "id": null,
+                "name": "Biztoc.com"
             },
-            "author": "Mark Wilson",
-            "title": "Google Pixel 8 and Google Photos: the 7 biggest new camera tricks",
-            "description": "It wouldn't be a Pixel event without new camera wizardry",
-            "url": "https://www.techradar.com/phones/google-pixel-8-and-google-photos-the-7-biggest-new-camera-tricks",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bbPjjH5E8LK9KC3bp4ZmxC-1200-80.jpg",
-            "publishedAt": "2023-10-04T19:30:39Z",
-            "content": "The Google Pixel 8 event didn't deliver any massive surprises, thanks to the huge number of leaks we've seen recently. But as is tradition, Google did use its big annual phone launch to reveal an arr… [+6880 chars]"
+            "author": "washingtonexaminer.com",
+            "title": "Is Bidenomics killing the environment?",
+            "description": "“Bidenomics” has been President Joe Biden’s big selling point for his reelection campaign. But Bidenomics isn’t just making things more unaffordable for everyday people; it may just be killing the planet. Automakers are slowing their production of electric ve…",
+            "url": "https://biztoc.com/x/c571cfa5c0a537c7",
+            "urlToImage": "https://c.biztoc.com/p/c571cfa5c0a537c7/og.webp",
+            "publishedAt": "2023-10-23T18:48:31Z",
+            "content": "Bidenomics has been President Joe Bidens big selling point for his reelection campaign. But Bidenomics isnt just making things more unaffordable for everyday people; it may just be killing the planet… [+301 chars]"
         },
         {
             "source": {
-                "id": "handelsblatt",
-                "name": "Handelsblatt"
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Victor Tangermann",
+            "title": "Tesla Admits the DOJ Is Investigating Its Vehicles' Driving Range",
+            "description": "Range Inflation The US Department of Justice is investigating whether Tesla exaggerated the advertised ranges of its vehicles, according to new documents the Elon Musk-led company filed with the Securities and Exchange Commission. According to the documents, …",
+            "url": "https://futurism.com/the-byte/tesla-doj-range",
+            "urlToImage": "https://wp-assets.futurism.com/2023/10/tesla-doj-range.jpg",
+            "publishedAt": "2023-10-23T18:46:48Z",
+            "content": "The numbers just don't add up.\r\nRange Inflation\r\nThe US Department of Justice is officially investigating whether Tesla exaggerated the advertised ranges of its vehicles, according to new documents t… [+1868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
             },
             "author": null,
-            "title": "Smartphones und KI: Pixel 8 Pro, Pixel Watch 2 – das können die neuen Google-Geräte",
-            "description": "Der Tech-Konzern stellt in New York seine neuen Smartphones vor. Dabei dreht sich alles um erweiterte KI-Funktionen. So soll unter anderem der Assistent Bard von mehr Rechenleistung profitieren.",
-            "url": "https://www.handelsblatt.com/technik/it-internet/smartphones-und-ki-pixel-8-pro-pixel-watch-2-das-koennen-die-neuen-google-geraete/29426984.html",
+            "title": "Приписки в официальных спецификациях электромобилей Tesla взялся расследовать Минюст США",
+            "description": "Министерство юстиции США начало расследование в связи с появлением сообщений о завышении Tesla показателей запаса хода по ряду моделей электромобилей Tesla, пишет The Verge. Источник изображения: Tesla",
+            "url": "https://3dnews.ru/1094868/tesla-zapodozrili-v-zavishenii-zapasa-hoda",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/10/23/1094868/model-y-1664889098.jpg",
+            "publishedAt": "2023-10-23T18:46:00Z",
+            "content": "Tesla Tesla, The Verge.\r\n: Tesla\r\n, Tesla , , « , , , , ».\r\n Reuters Tesla , « » . , , , , .\r\nReuters, , . , Tesla , . , , , . , « » .\r\n , . , , Tesla . Car and Driver, , Tesla .\r\nTesla . 2021 - . Te… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "nytimes.com",
+            "title": "Federal Investigators Widen Tesla Inquiry, Company Says",
+            "description": "The Department of Justice has expanded its inquiry into Tesla’s business practices to include how far its vehicles can travel on a full charge and “personal benefits” to high-ranking executives or large shareholders, the company said without elaborating. The …",
+            "url": "https://biztoc.com/x/d39fe252b0cefbe0",
+            "urlToImage": "https://c.biztoc.com/p/d39fe252b0cefbe0/og.webp",
+            "publishedAt": "2023-10-23T18:44:18Z",
+            "content": "The Department of Justice has expanded its inquiry into Teslas business practices to include how far its vehicles can travel on a full charge and personal benefits to high-ranking executives or large… [+255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Iain Thomson",
+            "title": "No more Mr Nice DoJ - Tesla gets subpoenas over self-driving software claims",
+            "description": "Has someone been shooting their mouth off a little too much?\nIn financial filings, Tesla has admitted that it is under a serious investigation by the US Department of Justice over the efficacy of its self-driving code, among many other things.…",
+            "url": "https://www.theregister.com/2023/10/23/telsa_doj_investigation/",
+            "urlToImage": "https://regmedia.co.uk/2023/08/08/investigation_shutterstock.jpg",
+            "publishedAt": "2023-10-23T18:42:23Z",
+            "content": "In financial filings, Tesla has admitted that it is under a serious investigation by the US Department of Justice over the efficacy of its self-driving code, among many other things.\r\nThe 10-Q regula… [+2692 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wnd.com"
+            },
+            "author": "WND News Services",
+            "title": "Biden DOJ ramps up probes into Elon Musk's Tesla with subpoenas",
+            "description": "By Jason Cohen Daily Caller News Foundation President Joe Biden’s Department of Justice (DOJ) has issued subpoenas for billionaire Elon Musk’s electric car company Tesla, according to the company’s Securities and Exchange Commission (SEC) filing on Monday. Th…",
+            "url": "https://www.wnd.com/2023/10/biden-doj-ramps-probes-elon-musks-tesla-subpoenas/",
+            "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/10/tesla-logo-EV-electric-vehicles-cars-elon-musk-rainwater.jpg",
+            "publishedAt": "2023-10-23T18:42:17Z",
+            "content": "By Jason CohenDaily Caller News Foundation\r\nPresident Joe Bidens Department of Justice (DOJ) has issued subpoenas for billionaire Elon Musks electric car company Tesla, according to the companys Secu… [+3598 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Riley Cardoza",
+            "title": "Elon Musk takes son X to F1 race amid parental rights battle with ex Grimes",
+            "description": "Musk has welcomed two other children with the singer, as well as eight more with ex-wife Justine Wilson and Neuralink executive Shivon Zilis.",
+            "url": "https://pagesix.com/2023/10/23/parents/elon-musk-takes-son-to-f1-amid-grimes-parental-rights-battle/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/10/elon-musk-brings-son-to-f1-new.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-10-23T18:42:17Z",
+            "content": "Elon Musk spent time with his 3-year-old son, X AE A-XII, at the Formula 1 Grand Prix in Austin, Texas, on Sunday.\r\nThe toddler was all smiles at the sporting event in a blue T-shirt, jeans and sneak… [+2972 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alexa St. John,Graham Rapier",
+            "title": "Only 2 major car companies haven't joined Tesla's charging tech yet",
+            "description": "Volkswagen and Stellantis, two of the world's largest automakers, find themselves at an interesting turning point.",
+            "url": "https://www.businessinsider.com/volkswagen-stellantis-electric-vehicles-tesla-nacs-charger-tech-holdouts-2023-10",
+            "urlToImage": "https://i.insider.com/6536989496908fd7cdb5314b?width=1200&format=jpeg",
+            "publishedAt": "2023-10-23T18:41:45Z",
+            "content": "The Ram 1500 Revolution BEV concept made by Stellantis; the Volkswagen ID.4.Ram; Volkswagen\r\n<ul><li>A flood of automakers have announced their EVs will adopt Tesla's charging tech.</li><li>But there… [+3301 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "fortune.com",
+            "title": "Tesla warns that a federal probe into whether it exaggerated the range of its cars may lead to a 'material adverse impact on our business'",
+            "description": "Tesla says it has received requests for information and subpoenas from the US Department of Justice related to potential personal benefits violations, the advertised range of its vehicles and personnel decisions. The company disclosed in a filing Monday that …",
+            "url": "https://biztoc.com/x/8b26e87c90733ec3",
+            "urlToImage": "https://c.biztoc.com/p/8b26e87c90733ec3/s.webp",
+            "publishedAt": "2023-10-23T18:40:05Z",
+            "content": "Tesla says it has received requests for information and subpoenas from the US Department of Justice related to potential personal benefits violations, the advertised range of its vehicles and personn… [+242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fark.com"
+            },
+            "author": null,
+            "title": "Tesla can't stop recalling cars, mostly because their cars can't stop [Scary]",
+            "description": "Tesla can't stop recalling cars, mostly because their cars can't stop",
+            "url": "https://www.fark.com/comments/13031858/Tesla-cant-stop-recalling-cars-mostly-because-their-cars-cant-stop",
+            "urlToImage": "https://usrimg-full.fark.net/V/VO/fark_VO1KRhA7iSMvAIBTQlzCAGoZ59s.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1698638400&Signature=1idbKjD2a4umTa0gVeMrZPL4Fto%3D",
+            "publishedAt": "2023-10-23T18:35:26Z",
+            "content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sean O'Kane, Bloomberg",
+            "title": "Tesla warns that a federal probe into whether it exaggerated the range of its cars may lead to a 'material adverse impact on our business'",
+            "description": "Earlier this year, Reuters reported that Tesla had created a special “diversions team” to avoid dealing with complaints from customers about their vehicle ranges.",
+            "url": "https://fortune.com/2023/10/23/tesla-doj-investigation-car-vehicle-range-personal-benefits/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1678536159-1-e1698085412860.jpg?resize=1200,600",
+            "publishedAt": "2023-10-23T18:34:33Z",
+            "content": "Tesla says it has received requests for information and subpoenas from the US Department of Justice related to potential personal benefits violations, the advertised range of its vehicles and personn… [+1121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Joy Wiltermuth",
+            "title": "The stock market may be ignoring this ‘bad news’ as earnings get under way",
+            "description": "Investors are hoping earnings growth will turn slightly positive in the third quarter, but BlackRock isn't optimistic.",
+            "url": "https://www.marketwatch.com/story/the-stock-market-may-be-ignoring-this-bad-news-as-earnings-get-under-way-ec8dd3d1",
+            "urlToImage": "https://images.mktw.net/im-873701/social",
+            "publishedAt": "2023-10-23T18:32:00Z",
+            "content": "BlackRock strategists arent holding their breath for U.S. corporate earnings to finally turn positive in the third quarter.While many investors have been hoping the S&amp;P 500 index \r\n SPX\r\n will fi… [+2363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes.com.mx"
+            },
+            "author": "Giorgio Arturi",
+            "title": "Al menos 35 trabajadores de la ONU han muerto por los bombardeos israelíes contra Gaza",
+            "description": "Forbes México.\n Al menos 35 trabajadores de la ONU han muerto por los bombardeos israelíes contra Gaza\n\nLa UNRWA confirmó \"la muerte de otros seis miembros\" de su personal, por lo que el total de fallecidos asciende ya a 35, mientras que otros 18 trabajadores…",
+            "url": "https://www.forbes.com.mx/al-menos-35-trabajadores-de-la-onu-han-muerto-por-los-bombardeos-israelies-contra-gaza/",
+            "urlToImage": "https://cdn.forbes.com.mx/2023/10/gaza-bombas.webp",
+            "publishedAt": "2023-10-23T18:31:08Z",
+            "content": "Al menos 35 trabajadores de la Agencia de la ONU para los Refugiados Palestinos (UNRWA) han muerto por los bombardeos israelíes contra la Franja de Gaza desde el pasado 7 de octubre, cuando estalló l… [+1491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "reuters.com",
+            "title": "US Justice Department issues subpoenas to Tesla in ongoing probes",
+            "description": "[1/2] A Tesla Model 3 vehicle is shown using the Full Self Driving Beta software (FSD) while navigating a city road in Encinitas, California, U.S., February 28, 2023. REUTERS/Mike Blake/File Photo Acquire Licensing Rights Oct 23 (Reuters) - The U.S. Justice D…",
+            "url": "https://biztoc.com/x/681f530ff79910d9",
+            "urlToImage": "https://c.biztoc.com/p/681f530ff79910d9/og.webp",
+            "publishedAt": "2023-10-23T18:28:15Z",
+            "content": "[1/2] A Tesla Model 3 vehicle is shown using the Full Self Driving Beta software (FSD) while navigating a city road in Encinitas, California, U.S., February 28, 2023. REUTERS/Mike Blake/File Photo Ac… [+306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Leblogauto.com"
+            },
+            "author": "Nicolas Anderbegani",
+            "title": "GAC Aion Hyper HT, une \"Model X\" chinoise",
+            "description": "La marque Aion est le porte-étendard du groupe chinois GAC (Guangzhou Automobile Corporation) pour sa stratégie de conquête mondial, avec une arrivée prévue en 2025 en France. La Hyper HT veut se faire une place au soleil sur les SUV électriques.",
+            "url": "https://www.leblogauto.com/actualite/gac-aion-hyper-ht--une--model-x--chinoise-95005",
+            "urlToImage": "https://medias.leblogauto.com/20/2023/10/photo_article/95005/177279/1200-L-gac-aion-hyper-ht-une-model-x-chinoise.jpg",
+            "publishedAt": "2023-10-23T18:27:00Z",
+            "content": "GAC a officiellement lancé le nouveau SUV Hyper HT une semaine seulement après la première apparition en ligne des images de l'intrigant EV. Il sera vendu aux côtés de l'Hyper GT et de l'Hyper SSR da… [+2972 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Illinois county reaches $3.3M settlement over fatal police pursuit crash",
+            "description": "Winnebago County, Illinois, has agreed to a $3.3 million settlement with the family of Joy Lambert, who was fatally struck by a suspect in a high-speed police chase.",
+            "url": "https://www.foxnews.com/us/illinois-county-reaches-3-3m-settlement-fatal-police-pursuit-crash",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/ALL_CUSTOM_FS_LOCAL_NEWS_IL_GENERAL.png",
+            "publishedAt": "2023-10-23T18:24:36Z",
+            "content": "Winnebago County officials will pay $3.3 million to the family of a Rockford woman killed in a police pursuit.\r\nSTUNNING VIDEO SHOWS CHICAGO MOB ATTACK TESLA AMID LAWLESS STREET TAKEOVER\r\nJoy Lambert… [+955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "marketwatch.com",
+            "title": "Tesla discloses more Justice Department probes",
+            "description": "Tesla Inc. said that it has received requests for information, including subpoenas, from the Justice Department, and disclosed a range of fresh legal problems in a filing Monday. These included Justice Department requests for documents related to Tesla’s TSLA…",
+            "url": "https://biztoc.com/x/25a6026052e5a39d",
+            "urlToImage": "https://c.biztoc.com/p/25a6026052e5a39d/s.webp",
+            "publishedAt": "2023-10-23T18:18:25Z",
+            "content": "Tesla Inc. said that it has received requests for information, including subpoenas, from the Justice Department, and disclosed a range of fresh legal problems in a filing Monday.These included Justic… [+274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2023-10-04T18:37:00+00:00",
-            "content": "Der Tech-Konzern stellt in New York seine neuen Smartphones vor. Dabei dreht sich alles um erweiterte KI-Funktionen. So soll unter anderem der Assistent Bard von mehr Rechenleistung profitieren."
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
-                "id": "techradar",
-                "name": "TechRadar"
+                "id": null,
+                "name": "Biztoc.com"
             },
-            "author": "Lance Ulanoff",
-            "title": "Google Pixel 8 Pro's Best Take feature will fix your group photos, and I love it",
-            "description": "Changing faces",
-            "url": "https://www.techradar.com/phones/google-pixel-8-pros-best-take-feature-will-fix-your-group-photos-and-i-love-it",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/psnJ8b48AZBphLGvD4Qy4F-1200-80.jpg",
-            "publishedAt": "2023-10-04T18:35:22Z",
-            "content": "Google Pixel 8 Pro's Best Take technology is powerful enough to become an AI-based social situation fixer. I have proof.\r\nTrue story: At a recent family function, a dozen of us sat at a long table an… [+4708 chars]"
+            "author": "techcrunch.com",
+            "title": "Feds expand Tesla investigation to include vehicle range, personal benefits",
+            "description": "Tesla has the attention of the U.S. Department of Justice — again. Tesla has received requests for information, including subpoenas from the DOJ, the automaker disclosed Monday in a U.S. Securities and Exchange Commission filing. The DOJ issued subpoenas rela…",
+            "url": "https://biztoc.com/x/76a12a4cc7b2a0b6",
+            "urlToImage": "https://c.biztoc.com/p/76a12a4cc7b2a0b6/s.webp",
+            "publishedAt": "2023-10-23T18:18:05Z",
+            "content": "Tesla has the attention of the U.S. Department of Justice again.Tesla has received requests for information, including subpoenas from the DOJ, the automaker disclosed Monday in a U.S. Securities and … [+269 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Frandroid"
             },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Google Pixel 8 vs. iPhone 15 Pro and Galaxy S23: specs comparison",
-            "description": "How do Google’s new flagship phones compare to Apple’s latest iPhones and a couple of the best Android phones from Samsung?",
-            "url": "http://www.theverge.com/23901988/google-pixel-8-vs-apple-iphone-samsung-galaxy-comparison-specs-price-features",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/tg0z75Kp1pH_OA8OMXITOer_G6E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24974558/pixel_8_table.jpg",
-            "publishedAt": "2023-10-04T17:38:11Z",
-            "content": "Heres how Googles new Pixel 8 phones compare to their top competitors\r\nHeres how Googles new Pixel 8 phones compare to their top competitors\r\n / The Pixel 8 and Pixel 8 Pro look promising, but how do… [+2370 chars]"
+            "author": "Yann Lethuillier",
+            "title": "Le plus grand concurrent de Tesla dévoile l’intérieur de sa nouvelle voiture électrique : la qualité avant tout",
+            "description": "Après avoir levé le voile, il y a quelques semaines, sur son nouveau SUV premium baptisé BYD Song L, le constructeur chinois et plus grand concurrent de Tesla nous présente son habitacle. Sans surprise, l'ensemble paraît de qualité avec, au programme, du conf…",
+            "url": "https://www.frandroid.com/marques/byd/1837547_le-plus-grand-concurrent-de-tesla-devoile-linterieur-de-sa-nouvelle-voiture-electrique-la-qualite-avant-tout",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/10/byd-song-l-4wd-interior-unveiled-cnc.jpg",
+            "publishedAt": "2023-10-23T18:15:10Z",
+            "content": "Après avoir levé le voile, il y a quelques semaines, sur son nouveau SUV premium baptisé BYD Song L, le constructeur chinois et plus grand concurrent de Tesla nous présente son habitacle. Sans surpri… [+2810 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Bloomberg",
-            "title": "Google Pixel 8: Pro Specs, Price, Release Date, iPhone 15 Comparison",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTEwLTA0L2dvb2dsZS1waXhlbC04LXByby1zcGVjcy1wcmljZS1yZWxlYXNlLWRhdGUtYW5ub3VuY2VkLWlwaG9uZS0xNS1jb21wYXJpc29u0gEA?oc=5",
+            "author": "Lauren Feiner",
+            "title": "VCs Marc Andreessen, John Doerr among among attendees at Schumer's next AI forum",
+            "description": "Academics and civil society leaders will also join the discussion about innovation and balancing a leading position in AI while ensuring its safety.",
+            "url": "https://www.cnbc.com/2023/10/23/vcs-andreessen-doerr-among-among-attendees-at-schumers-next-ai-forum.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107319488-1697653716021-gettyimages-1730499993-776050052.jpeg?v=1698084830&w=1920&h=1080",
+            "publishedAt": "2023-10-23T18:13:50Z",
+            "content": "Technologists and advocates are again set to visit Capitol Hill on Tuesday to discuss with Senate leaders the perils and promises of artificial intelligence.\r\nVenture capitalists Marc Andreessen, co-… [+2158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investors.com",
+            "title": "Cathie Wood's Top Holdings Are Tumbling",
+            "description": "Cathie Wood, CEO and founder of Ark Invest, takes big bets on companies that she sees having high growth potential, such as Tesla (TSLA), Coinbase (COIN), Zoom Video Communications (ZM), DraftKings (DKNG) and Roku (ROKU). Tesla stock, Coinbase, UiPath (PATH),…",
+            "url": "https://biztoc.com/x/8df76fd62b0c46c2",
+            "urlToImage": "https://c.biztoc.com/p/8df76fd62b0c46c2/og.webp",
+            "publishedAt": "2023-10-23T18:12:27Z",
+            "content": "Cathie Wood, CEO and founder of Ark Invest, takes big bets on companies that she sees having high growth potential, such as Tesla (TSLA), Coinbase (COIN), Zoom Video Communications (ZM), DraftKings (… [+278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "electrek.co",
+            "title": "reveals DOJ has ramped up investigation with subpoenas",
+            "description": "Tesla has revealed that the Department of Justice has ramped up its investigation into the company with subpoenas relating to several matters. Lately, there have been several media reports about government agencies investigating Tesla regarding several differ…",
+            "url": "https://biztoc.com/x/079db91144a3619e",
+            "urlToImage": "https://c.biztoc.com/p/079db91144a3619e/og.webp",
+            "publishedAt": "2023-10-23T18:12:25Z",
+            "content": "Tesla has revealed that the Department of Justice has ramped up its investigation into the company with subpoenas relating to several matters.Lately, there have been several media reports about gover… [+293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hibridosyelectricos.com"
+            },
+            "author": "Javier Gómara",
+            "title": "El nuevo Tesla Model 3 desembarca en Europa: arrancan las entregas inmediatamente, también en España",
+            "description": "Cada vez que Tesla lanza al mercado un nuevo producto el mundo contiene el aliento. Los americanos han conseguido transformar la industria a lo largo de estos años gracias a productos que, con el paso del tiempo, se han ganado una más que merecida fama de efi…",
+            "url": "https://www.hibridosyelectricos.com/coches/nuevo-tesla-model-3-desembarca-europa-arrancan-entregas-inmediatamente-tambien-espana_71338_102.html",
+            "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/54/44/24/camio-n-tesla-model-3-2024_17_2000x1126.jpeg",
+            "publishedAt": "2023-10-23T18:12:10Z",
+            "content": "Cada vez que Tesla lanza al mercado un nuevo producto el mundo contiene el aliento. Los americanos han conseguido transformar la industria a lo largo de estos años gracias a productos que, con el pas… [+2926 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Caller"
+            },
+            "author": "Jason Cohen",
+            "title": "Biden DOJ Ramps Up Investigations Into Elon Musk’s Tesla",
+            "description": "Biden&#039;s Department of Justice (DOJ) has issued subpoenas into billionaire Elon Musk&#039;s electric car company Tesla, according to the company&#039;s SEC filing.",
+            "url": "https://dailycaller.com/2023/10/23/biden-doj-ramps-up-investigations-into-elon-musks-tesla/",
+            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/10/GettyImages-1678533914-scaled-e1698080797346.jpg",
+            "publishedAt": "2023-10-23T18:11:55Z",
+            "content": "President Joe Biden’s Department of Justice (DOJ) has issued subpoenas for billionaire Elon Musk’s electric car company Tesla, according to the company’s Securities and Exchange Commission (SEC) fili… [+3791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Filcenberg",
+            "title": "Илон Маск пообещал выделить Википедии $1 миллиард, если они сменят название на нецензурное",
+            "description": "Илон Маск говорит, что выделит Википедии 1 миллиард долларов при одном странном условии",
+            "url": "https://overclockers.ru/blog/LYMAN/show/116368/Ilon-Mask-govorit-chto-on-vydelit-Vikipedii-1-milliard-esli-oni-smenyat-svoe-nazvanie-na-D-kipedia",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/427390/432098_O.jpeg",
+            "publishedAt": "2023-10-23T18:10:16Z",
+            "content": "- Wikipedia, , . , .\r\n , , . X (Twitter) , *****pedia ( ). , .\r\n. , , , .\r\n . . , - , The Washington Post, . .\r\n , , , .\r\n. Tesla 2023 16 - 9,3%."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes.com.mx"
+            },
+            "author": "Forbes Staff",
+            "title": "4,000 personas de Gaza que trabajaban en Israel, detenidos y sin detalles de su paradero",
+            "description": "Forbes México.\n 4,000 personas de Gaza que trabajaban en Israel, detenidos y sin detalles de su paradero\n\nUnos 4,000 palestinos de Gaza con empleo en Israel fueron detenidos en las dos últimas semanas tras el inicio de la guerra entre el Ejército israelí y el…",
+            "url": "https://www.forbes.com.mx/4000-personas-de-gaza-que-trabajaban-en-israel-detenidos-y-sin-detalles-de-su-paradero/",
             "urlToImage": null,
-            "publishedAt": "2023-10-04T15:56:15+00:00",
-            "content": null
+            "publishedAt": "2023-10-23T18:09:22Z",
+            "content": "Unos 4,000 palestinos de Gaza con empleo en Israel fueron detenidos en las dos últimas semanas tras el inicio de la guerra entre el Ejército israelí y el grupo islamista Hamás en la Franja, y hasta a… [+4287 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Terra.com.br"
             },
-            "author": "Emma Roth",
-            "title": "Google Pixel 8 launch event: the 7 biggest announcements",
-            "description": "During its product launch event, Google took the wraps off the Pixel 8 and 8 Pro, along with the new Pixel Watch 2. Here’s a roundup of all the major announcements Google made.",
-            "url": "http://www.theverge.com/23902026/google-pixel-8-launch-event-biggest-announcements-watch-buds-pro",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/I7ltcGTUWuK88Zu7pgt1fJZjKLU=/0x0:2040x1360/1200x628/filters:focal(996x783:997x784)/cdn.vox-cdn.com/uploads/chorus_asset/file/24971366/236823_Pixel_8_8Pro_Watch2_VPavic_0011.jpg",
-            "publishedAt": "2023-10-04T15:28:56Z",
-            "content": "Google Pixel 8 launch event: the 7 biggest announcements\r\nGoogle Pixel 8 launch event: the 7 biggest announcements\r\n / From the Pixel 8 to the Pixel Watch 2, here are all the biggest announcements fr… [+5175 chars]"
+            "author": "Estadão Conteúdo",
+            "title": "Elon Musk ataca modelo de doações da Wikipédia",
+            "description": "O empresário Elon Musk foi ao X (ex- Twitter ) na manhã de domingo 22 para atacar a Wikipédia, a ...",
+            "url": "https://www.terra.com.br/byte/elon-musk-ataca-modelo-de-doacoes-da-wikipedia,a1b6ad8b19f0e03ea265dea58f0da15cq38k6x9k.html",
+            "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+            "publishedAt": "2023-10-23T18:07:26Z",
+            "content": "O empresário Elon Musk foi ao X (ex-Twitter) na manhã de domingo 22 para atacar a Wikipédia, a enciclopédia digital colaborativa utilizada por diversas plataformas, como Google, para replicar conteúd… [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Rikka Altland",
+            "title": "Anker 256Wh power station hits $170, Greenworks electric leaf blower $199, more",
+            "description": "Some perfect fall discounts are here in the green energy world, with Anker’s 256Wh portable power station falling to a new $170 low. It comes joined by this Greenworks 80V electric leaf blower at $199, as well as Electric Bike Co.’s Model E e-bike at $400 off…",
+            "url": "https://electrek.co/2023/10/23/anker-256wh-power-station-hits-170-greenworks-electric-leaf-blower-199-more/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/anker-256wh-portable-power-station.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-10-23T18:07:23Z",
+            "content": "Some perfect fall discounts are here in the green energy world, with Ankers 256Wh portable power station falling to a new $170 low. It comes joined by this Greenworks 80V electric leaf blower at $199… [+3562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "wsj.com",
+            "title": "Tesla Received Subpoenas Over Autopilot System",
+            "description": "The Justice Department has requested additional information, including through subpoenas, from Tesla as it investigates the electric-vehicle manufacturer’s autopilot technology. The Justice Department also requested information through subpoenas from Tesla re…",
+            "url": "https://biztoc.com/x/be0e525121f542e5",
+            "urlToImage": "https://c.biztoc.com/p/be0e525121f542e5/s.webp",
+            "publishedAt": "2023-10-23T18:06:19Z",
+            "content": "The Justice Department has requested additional information, including through subpoenas, from Tesla as it investigates the electric-vehicle manufacturers autopilot technology.The Justice Department … [+230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Memeorandum.com"
+            },
+            "author": null,
+            "title": "Federal Investigators Widen Tesla Inquiry, Company Says (Jack Ewing/New York Times)",
+            "description": "Jack Ewing / New York Times:\nFederal Investigators Widen Tesla Inquiry, Company Says  —  The Department of Justice has sought documents related to vehicle range and “personal benefits,” Tesla said.  —  The Department of Justice has expanded its inquiry into T…",
+            "url": "https://www.memeorandum.com/231023/p25",
+            "urlToImage": "https://static01.nyt.com/images/2023/10/23/multimedia/23tesla-gfhb/23tesla-gfhb-facebookJumbo.jpg",
+            "publishedAt": "2023-10-23T18:05:05Z",
+            "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "www.climatedepot.com",
+            "title": "Electric cars risk becoming uninsurable – ‘Difficulty pricing battery repairs forcing insurers to refuse cover’[UK]",
+            "description": "Electric cars risk becoming effectively uninsurable as analysts struggle to put a price on battery repairs, the researcher for the car insurance industry has said. Jonathan Hewett, chief executive of Thatcham Research, the motor insurers’ automotive research …",
+            "url": "https://freerepublic.com/focus/f-chat/4191721/posts",
+            "urlToImage": null,
+            "publishedAt": "2023-10-23T18:04:12Z",
+            "content": "Skip to comments.\r\nElectric cars risk becoming uninsurable Difficulty pricing battery repairs forcing insurers to refuse cover[UK]www.climatedepot.com ^\r\n | October 22, 2023 9:29 am\r\n | By Marc Moran… [+6867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Turbo.fr"
+            },
+            "author": "Khalil Bouguerra",
+            "title": "VIDEO - Tesla teste la robustesse du Cybertruck en le criblant de balles",
+            "description": "Cette vidéo a de quoi intriguer, mais Elon Musk est toujours près pour apporter quelques éléments de réponse.\nLe Tesla Cybertruck continue de susciter l'enthousiasme et l'intrigue bien avant sa sortie officielle sur le marché. Depuis sa révélation en 2019, ce…",
+            "url": "https://www.turbo.fr/tesla/cybertruck/actualites-auto/video-tesla-teste-la-robustesse-du-cybertruck-en-le-criblant-de-balles-192438",
+            "urlToImage": "https://www.turbo.fr/sites/default/files/2023-10/tesla%20Cybertruck.jpg",
+            "publishedAt": "2023-10-23T18:00:58Z",
+            "content": "Cette vidéo a de quoi intriguer, mais Elon Musk est toujours près pour apporter quelques éléments de réponse.\r\nLe Tesla Cybertruck continue de susciter l'enthousiasme et l'intrigue bien avant sa sort… [+1785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "siliconvalley.com",
+            "title": "Tesla says DOJ Is probing personal benefits violations, advertised vehicle range",
+            "description": "By Sean O’Kane | Bloomberg Tesla Inc. says it has received requests for information and subpoenas from the US Department of Justice related to potential personal benefits violations, the advertised range of its vehicles and personnel decisions. The company di…",
+            "url": "https://biztoc.com/x/76c6262d92eb33c6",
+            "urlToImage": "https://c.biztoc.com/p/76c6262d92eb33c6/s.webp",
+            "publishedAt": "2023-10-23T18:00:06Z",
+            "content": "By Sean OKane | BloombergTesla Inc. says it has received requests for information and subpoenas from the US Department of Justice related to potential personal benefits violations, the advertised ran… [+267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Straits Research",
+            "title": "Automotive Hypervisor Market Size is Projected to Reach $1943.57 Million CAGR by 2030: Straits Research",
+            "description": "Automotive Hypervisor Market: Information by Product Type Scope (Type 1, Type 2), Vehicle Type (Passenger Cars, Light Commercial Vehicles, Heavy Commercial Vehicles), Mode of Operation (Autonomous Vehicle, Semi-autonomous Vehicle), End User (Economy, Mid-Pric…",
+            "url": "https://www.globenewswire.com/news-release/2023/10/23/2765058/0/en/Automotive-Hypervisor-Market-Size-is-Projected-to-Reach-1943-57-Million-CAGR-by-2030-Straits-Research.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/c25b8e5a-9a9f-499a-8eb6-76ff0d860959",
+            "publishedAt": "2023-10-23T18:00:00Z",
+            "content": "New York, United States, Oct. 23, 2023 (GLOBE NEWSWIRE) -- The automotive hypervisor is an embedded technology that was specifically created for use in automobiles and is utilized for in-vehicle ente… [+5506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "thestreet.com",
+            "title": "Cathie Wood's biggest bets don't seem to be working out",
+            "description": "In June, Ark Invest's flagship Innovation ETF owned around 3.5 million shares of Tesla (TSLA) - Get Free Report, a holding that was weighted at more than 12.5% of the fund. The firm's Tesla holding was worth more than $1 billion in August. A few weeks later, …",
+            "url": "https://biztoc.com/x/977eeb05cf32e594",
+            "urlToImage": "https://c.biztoc.com/p/977eeb05cf32e594/s.webp",
+            "publishedAt": "2023-10-23T17:58:20Z",
+            "content": "In June, Ark Invest's flagship Innovation ETF owned around 3.5 million shares of Tesla (TSLA) - Get Free Report, a holding that was weighted at more than 12.5% of the fund. The firm's Tesla holding w… [+282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "markets.businessinsider.com",
+            "title": "'Extremely bearish' chart formation signals the top 7 Big Tech stocks including Apple, Nvidia, and Tesla face elevated risk of a selloff",
+            "description": "The so-called Magnificent 7 stocks comprise the biggest US tech names, including Apple, Amazon, and Microsoft. Gabe Ginsberg/SOPA Images/LightRocket via Getty Images; Tony Avelar/AP An \"extremely bearish\" pattern has formed on the Magnificent 7 stocks' combin…",
+            "url": "https://biztoc.com/x/b4771a95b2c3f217",
+            "urlToImage": "https://c.biztoc.com/p/b4771a95b2c3f217/s.webp",
+            "publishedAt": "2023-10-23T17:54:26Z",
+            "content": "The so-called Magnificent 7 stocks comprise the biggest US tech names, including Apple, Amazon, and Microsoft.Gabe Ginsberg/SOPA Images/LightRocket via Getty Images; Tony Avelar/AP An \"extremely bear… [+255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "businessinsider.com",
+            "title": "Elon Musk just served a lesson in free advertisement for the Tesla Cybertruck",
+            "description": "Tesla CEO Elon Musk introducing the Cybertruck in November 2019. Frederic J. Brown/AFP via Getty Images Tesla CEO Elon Musk pulled up to the F1 race in Austin, Texas on Sunday in his company's new Cybertruck. His surprise visit drew a crowd of onlookers, with…",
+            "url": "https://biztoc.com/x/8adbb353b9e07827",
+            "urlToImage": "https://c.biztoc.com/p/8adbb353b9e07827/s.webp",
+            "publishedAt": "2023-10-23T17:54:10Z",
+            "content": "Tesla CEO Elon Musk introducing the Cybertruck in November 2019.Frederic J. Brown/AFP via Getty ImagesTesla CEO Elon Musk pulled up to the F1 race in Austin, Texas on Sunday in his company's new Cybe… [+294 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sfstandard.com"
+            },
+            "author": "Joe Burn, George Kelly",
+            "title": "Off-duty pilot tried to crash Alaska Airlines SFO flight, officials say",
+            "description": "An off-duty pilot riding in the cockpit of an Alaska Airlines' Horizon Air flight bound for SFO tried to crash the plane, officials say.",
+            "url": "https://sfstandard.com/2023/10/23/sfo-alaska-airlines-pilot-crash-plane/",
+            "urlToImage": "https://content.sfstandard.com/wp-content/uploads/2022/11/GettyImages-1243690152-scaled.jpg?resize=1200,630",
+            "publishedAt": "2023-10-23T17:53:47Z",
+            "content": "An off-duty pilot riding in the cockpit of an Alaska Airlines' Horizon Air flight bound for San Francisco International Airport (SFO) tried to crash the plane, officials say. \r\nThe San Francisco-boun… [+2051 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Notebookcheck.net"
+            },
+            "author": "Julian van der Merwe",
+            "title": "Fisker drops Ocean Extreme US pricing as it opens order books for all trims and raises prices on cheaper trims",
+            "description": "Fisker has dropped the price of the Ocean Extreme SUV by US$7,500 to US$61,449, putting it well below the standard Dual Motor AWD Tesla Model X and much closer to the US$52,490 Model Y Performance. Fisker customers who have already ordered or purchased an Oce…",
+            "url": "https://www.notebookcheck.net/Fisker-drops-Ocean-Extreme-US-pricing-as-it-opens-order-books-for-all-trims-and-raises-prices-on-cheaper-trims.761598.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Fisker_Ocean.jpg",
+            "publishedAt": "2023-10-23T17:49:00Z",
+            "content": "The long-awaited Fisker Ocean SUV is finally making its way to US shores, and at a discounted rate, to boot. Fisker recently announced that the range-topping Ocean Extreme will now be available for U… [+1088 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com.co"
+            },
+            "author": "Wilson Vega",
+            "title": "Le pedimos a una IA rediseñar el icónico Renault 4 y ahora queremos comprar un carro que no existe",
+            "description": "Puede que para las nuevas generaciones sea una reliquia de una época pasada, con un diseño absolutamente inexplicable, pero incluso ellos deben aceptar que, al ser asequible, confiable y maniobrable, el Renault 4  se ganó un lugar en la memoria de muchos colo…",
+            "url": "https://www.xataka.com.co/robotica-e-ia/le-pedimos-a-ia-redisenar-iconico-renault-4-ahora-queremos-comprar-carro-que-no-existe",
+            "urlToImage": "https://i.blogs.es/c107fd/captura-de-pantalla-2023-10-23-a-la-s-12.16.01/840_560.png",
+            "publishedAt": "2023-10-23T17:48:37Z",
+            "content": "Puede que para las nuevas generaciones sea una reliquia de una época pasada, con un diseño absolutamente inexplicable, pero incluso ellos deben aceptar que, al ser asequible, confiable y maniobrable,… [+3336 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Bloomberg News",
+            "title": "Stock pickers sidelined with world events overshadowing earnings",
+            "description": "S&P 500 index constituents are increasingly moving in unison as global events sway markets broadly. Read more.",
+            "url": "https://financialpost.com/investing/stock-pickers-sidelined-world-events-overshadowing-earnings",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/10/no1023wallst.jpg",
+            "publishedAt": "2023-10-23T17:44:12Z",
+            "content": "S&amp;P 500 index constituents are increasingly moving in unison as global events sway markets broadly\r\nAuthor of the article:\r\nPeople pass the front of the New York Stock Exchange.Photo by Peter Mor… [+6971 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "nytimes.com",
+            "title": "Federal Investigators Widen Tesla Inquiry, Company Says",
+            "description": "The Department of Justice has expanded its inquiry into Tesla’s business practices to include how far its vehicles can travel on a full charge and “personal benefits” to high-ranking executives or large shareholders, the company said without elaborating. The …",
+            "url": "https://biztoc.com/x/7ec20c7650eb3c00",
+            "urlToImage": "https://c.biztoc.com/p/7ec20c7650eb3c00/s.webp",
+            "publishedAt": "2023-10-23T17:44:05Z",
+            "content": "The Department of Justice has expanded its inquiry into Teslas business practices to include how far its vehicles can travel on a full charge and personal benefits to high-ranking executives or large… [+254 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "N-tv.de"
+            },
+            "author": "n-tv NACHRICHTEN",
+            "title": "Autobauer weist Kritik zurück: Scharfer Gegenwind für Teslas Ausbaupläne in Grünheide",
+            "description": "Es kommen weniger Menschen als zuvor, aber ruhig geht es auf der Diskussionsveranstaltung um die Erweiterungspläne von Tesla nicht zu. Viele Kritiker machen vor der Halle ihrem Ärger Luft, aber auch drinnen gibt es schwere Vorwürfe. Die bügelt der Autobauer a…",
+            "url": "https://www.n-tv.de/wirtschaft/Scharfer-Gegenwind-fuer-Teslas-Ausbauplaene-in-Gruenheide-article24484267.html",
+            "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop24484271/6331323993-cImg_16_9-w1200/431458201.jpg",
+            "publishedAt": "2023-10-23T17:38:10Z",
+            "content": "Es kommen weniger Menschen als zuvor, aber ruhig geht es auf der Diskussionsveranstaltung um die Erweiterungspläne von Tesla nicht zu. Viele Kritiker machen vor der Halle ihrem Ärger Luft, aber auch … [+3384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jungewelt.de"
+            },
+            "author": "Oliver Rast",
+            "title": "Grünheide: Teslas Expansionsdrang",
+            "description": "Brandenburg: Erörterungstermin zur Erweiterung der »Gigafactory«. Bürgerinitiative und Grüne Liga kritisieren geschwärzte und fehlende Unterlagen • Foto: Jens Kalaene/dpa",
+            "url": "https://www.jungewelt.de/artikel/461686.grünheide-teslas-expansionsdrang.html",
+            "urlToImage": "https://www.jungewelt.de/img/1100/186841.jpg",
+            "publishedAt": "2023-10-23T17:35:25Z",
+            "content": "Das Firmencredo ist bekannt, sattsam: Ausbau, Ausbau, Ausbau. Der Fabrik, der Produktion, der Arbeitsstellen. Seit rund anderthalb Jahren werkelt der US-Autobauer Tesla im ostbrandenburgischen Grünhe… [+3857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jungewelt.de"
+            },
+            "author": "David Maiwald",
+            "title": "25. Gewerkschaftstag der IG Metall: Benner wird IG-Metall-Chefin",
+            "description": "Christiane Benner wird erste weibliche Vorsitzende der IG Metall. Delegierte stimmen für Verkleinerung von geschäftsführendem Vorstand und stimmen den Wahlvorschlägen zu.",
+            "url": "https://www.jungewelt.de/artikel/461673.25-gewerkschaftstag-der-ig-metall-benner-wird-ig-metall-chefin.html",
+            "urlToImage": "https://www.jungewelt.de/img/1100/186844.jpg",
+            "publishedAt": "2023-10-23T17:35:25Z",
+            "content": "Keine Überraschung, dennoch ein deutlicher Erfolg. Der 25. Gewerkschaftstag der IG Metall (IGM) hat am Montag die vorige Zweite Vorsitzende Christiane Benner zur allerersten Vorsitzenden der IG Metal… [+1867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bright.nl"
+            },
+            "author": null,
+            "title": "Toyota wil de Tesla Cybertruck verslaan met deze elektrische pick-up",
+            "description": "Toyota heeft een voorproefje van zijn elektrische pick-up truck gegeven. De nieuwe Toyota EPU krijgt vijf zitplaatsen en moet uiteindelijk de strijd aangaan met de Tesla Cybertruck.",
+            "url": "https://www.bright.nl/news/1158203/toyota-wil-de-tesla-cybertruck-verslaan-met-deze-elektrische-pick-up.html",
+            "urlToImage": "https://br.cdn.pxr.nl/news/2023/10/23/bfa3a979da131c439c217681ec7c709c3ef8a030.jpg",
+            "publishedAt": "2023-10-23T17:33:12Z",
+            "content": "Toyota heeft een voorproefje van zijn elektrische pick-up truck gegeven. De nieuwe Toyota EPU krijgt vijf zitplaatsen en moet uiteindelijk de strijd aangaan met de Tesla Cybertruck. \r\nArtikel verder … [+2316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bright.nl"
+            },
+            "author": null,
+            "title": "Toyota onthult concurrent voor Tesla Cybertruck",
+            "description": "Toyota heeft een voorproefje van zijn elektrische pick-up truck gegeven. De nieuwe Toyota EPU krijgt vijf zitplaatsen en moet uiteindelijk de strijd aangaan met de Tesla Cybertruck.",
+            "url": "https://www.bright.nl/news/1158203/toyota-onthult-concurrent-voor-tesla-cybertruck.html",
+            "urlToImage": "https://br.cdn.pxr.nl/news/2023/10/23/bfa3a979da131c439c217681ec7c709c3ef8a030.jpg",
+            "publishedAt": "2023-10-23T17:33:12Z",
+            "content": "Toyota heeft een voorproefje van zijn elektrische pick-up truck gegeven. De nieuwe Toyota EPU krijgt vijf zitplaatsen en moet uiteindelijk de strijd aangaan met de Tesla Cybertruck. \r\nArtikel verder … [+2316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Interest Rates Fuel Year-End Market Volatility, Say Industry Leaders",
+            "description": "Interest Rates Fuel Year-End Market Volatility, Say Industry Leaders",
+            "url": "https://www.investing.com/news/economy/interest-rates-fuel-yearend-market-volatility-say-industry-leaders-93CH-3206124",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC6B1JZ_L.jpg",
+            "publishedAt": "2023-10-23T17:31:04Z",
+            "content": "In the face of global economic uncertainty and escalating interest rates, industry leaders are emphasizing the potential for increased market volatility towards the end of the year. This perspective … [+2794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Emily Selleck",
+            "title": "Prince Harry jets to Texas for Formula 1 race without Meghan Markle",
+            "description": "He renegade royal watched the race from the Mercedes-AMG Petronas's team garage, where he was later joined by billionaire Elon Musk and his son, X.",
+            "url": "https://pagesix.com/2023/10/23/royal-family/prince-harry-jets-to-texas-for-formula-1-race-without-meghan-markle/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/10/NYPICHPDPICT000062288342.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-10-23T17:30:28Z",
+            "content": "Prince Harry flew solo when he made a surprise appearance at the US Grand Prix Sunday to cheer on Lewis Hamilton and his teammate, George Russell. \r\nThe Duke of Sussex jetted to Austin, Texas, ahead … [+2589 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "thestreet.com",
+            "title": "Bill Ford has a controversial take about Americans and electric vehicles",
+            "description": "High vehicle prices and an underdeveloped charging infrastructure are just some of the reasons why many American car buyers are still not making the jump towards fully-electric cars any time soon. Some curious buyers are adopting hybrids; which utilizes inter…",
+            "url": "https://biztoc.com/x/2a65cd689f6230fa",
+            "urlToImage": "https://c.biztoc.com/p/2a65cd689f6230fa/s.webp",
+            "publishedAt": "2023-10-23T17:28:43Z",
+            "content": "High vehicle prices and an underdeveloped charging infrastructure are just some of the reasons why many American car buyers are still not making the jump towards fully-electric cars any time soon. So… [+285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "thestreet.com",
+            "title": "An electric vehicle rival mimics Tesla with a key marketing move",
+            "description": "It’s not exactly a race to the bottom – at least not yet – but another EV maker is cutting prices on one of its highly-touted vehicles that hasn't been a huge hit with buyers. This time it’s Fisker (FSR) - Get Free Report that’s cutting prices on select EVs. …",
+            "url": "https://biztoc.com/x/530493ebca763e86",
+            "urlToImage": "https://c.biztoc.com/p/530493ebca763e86/s.webp",
+            "publishedAt": "2023-10-23T17:14:43Z",
+            "content": "Its not exactly a race to the bottom at least not yet but another EV maker is cutting prices on one of its highly-touted vehicles that hasn't been a huge hit with buyers.This time its Fisker (FSR) - … [+298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Peter Johnson",
+            "title": "Porsche chief designer admits Chinese EVs are forcing German automakers to get bold",
+            "description": "As Chinese EV brands expand their European footprint, Michael Mauer, Porsche, and Volkswagens chief designer, is taking note. Mauer says with the ability to “do things completely different,” Chinese EVs are forcing German automakers to be more open-minded.\n m…",
+            "url": "https://electrek.co/2023/10/23/porsche-chief-designer-adapts-to-tesla-chinese-evs-influence/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/08/Porsche-new-EVs-design-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-10-23T17:13:55Z",
+            "content": "As Chinese EV brands expand their European footprint, Michael Mauer, Porsche, and Volkswagens chief designer, is taking note. Mauer says with the ability to do things completely different, Chinese EV… [+3721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FREDZONE"
+            },
+            "author": "Precieux",
+            "title": "X : Elon Musk fait une offre audacieuse de don à Wikipédia !",
+            "description": "À chaque fois qu’il en a l’occasion, Elon Musk, PDG de Tesla et de SpaceX, ne manque pas d’envoyer des piques aux grands médias ou sites d’informations. Ce weekend, l’homme d’affaires américain a profité de son compte sur Twitter pour faire une proposition co…",
+            "url": "https://www.fredzone.org/x-elon-musk-fait-une-offre-audacieuse-de-don-a-wikipedia-rcp345",
+            "urlToImage": "https://www.fredzone.org/wp-content/uploads/2023/08/boliviainteligente-5jcUy1sfErg-unsplash-scaled.jpg",
+            "publishedAt": "2023-10-23T17:10:30Z",
+            "content": "À chaque fois quil en a loccasion, Elon Musk, PDG de Tesla et de SpaceX, ne manque pas denvoyer des piques aux grands médias ou sites dinformations. Ce weekend, lhomme daffaires américain a profité d… [+3463 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "reuters.com",
+            "title": "US Justice Department issues subpoenas to Tesla in ongoing probes",
+            "description": "[1/2] A Tesla Model 3 vehicle is shown using the Full Self Driving Beta software (FSD) while navigating a city road in Encinitas, California, U.S., February 28, 2023. REUTERS/Mike Blake/File Photo Acquire Licensing Rights Oct 23 (Reuters) - The U.S. Justice D…",
+            "url": "https://biztoc.com/x/2dbf74d74ea0e169",
+            "urlToImage": "https://c.biztoc.com/p/2dbf74d74ea0e169/s.webp",
+            "publishedAt": "2023-10-23T17:10:11Z",
+            "content": "[1/2] A Tesla Model 3 vehicle is shown using the Full Self Driving Beta software (FSD) while navigating a city road in Encinitas, California, U.S., February 28, 2023. REUTERS/Mike Blake/File Photo Ac… [+306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Notebookcheck.net"
+            },
+            "author": "Julian van der Merwe",
+            "title": "Chevrolet Blazer EV falls prey to US$10,000 dealer markups before GM even has time for volume production ramp",
+            "description": "The dealer markups that have plagued the automotive world of late have struck again, this time laying claim to the Chevrolet Blazer EV, which is supposed to have an MSRP of under US$60,000. Some dealers appear to be adding “market adjustments” of up to US$10,…",
+            "url": "https://www.notebookcheck.net/Chevrolet-Blazer-EV-falls-prey-to-US-10-000-dealer-markups-before-GM-even-has-time-for-volume-production-ramp.761096.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/2024_chevrolet_blazer_ev_ss.jpg",
+            "publishedAt": "2023-10-23T17:08:00Z",
+            "content": "While federal government tax incentives have been put in place by the US government to help aid the switch to electric vehicles, car dealerships seem to be pulling in the opposite direction. Dealer m… [+1408 chars]"
         },
         {
             "source": {
                 "id": "techradar",
                 "name": "TechRadar"
             },
-            "author": "Roland Moore-Coyler",
-            "title": "Google event live – we're on the ground at the Pixel 8 launch",
-            "description": "Get ready for the Google Pixel 8, Pixel 8 Pro, Pixel Watch 2",
-            "url": "https://www.techradar.com/news/live/google-pixel-8-launch-live-blog",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QgkKHHMCq3puwEANEdeAfn-1200-80.jpg",
-            "publishedAt": "2023-10-04T15:25:35Z",
-            "content": "2023-10-04T15:25:35.842Z\r\n(Image credit: Future / Lance Ulanoff)\r\nAnd Lance also took the Pixel 8 for a spin, so check out his Google Pixel 8 review hands-on. \r\n2023-10-04T15:24:22.065ZWe got a chanc… [+11058 chars]"
+            "author": "Leon Poultney",
+            "title": "Tesla just demonstrated the bulletproof nature of its Cybertruck… by unloading a Tommy gun into one",
+            "description": "Elon Musk attempts to confirm the bulletproof properties of the upcoming Cybertruck by shooting it with an automatic weapon",
+            "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-just-demonstrated-the-bulletproof-nature-of-its-cybertruck-by-unloading-a-tommy-gun-into-one",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hjCKiFeYD6b4X9DcEX8MUi-1200-80.jpg",
+            "publishedAt": "2023-10-23T17:07:50Z",
+            "content": "There was a fantastic moment during the unveiling of the Tesla Cybertruck back in 2019, when lead designer Franz von Holzhausen threw a metal ball at the window of his hard work to prove the quality … [+1820 chars]"
         },
         {
             "source": {
-                "id": "techradar",
-                "name": "TechRadar"
+                "id": null,
+                "name": "Ben-evans.com"
             },
-            "author": "Roland Moore-Coyler",
-            "title": "Google Pixel Watch 2 has more brains and battery brawn",
-            "description": "Google’s Pixel Watch 2 get a tweaked design, more power and a host of smart features",
-            "url": "https://www.techradar.com/health-fitness/smartwatches/1-minute-news-google-pixel-watch-2-is-smarter-faster-and-longer-lasting",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/S6awF573Akcfy23Uqx63oa-1200-80.png",
-            "publishedAt": "2023-10-04T14:31:51Z",
-            "content": "What’s the story? \r\nThe Google Pixel Watch 2 has arrived and comes with a welcome boost to its battery, promising 'all-day' use. And it gets a host of smart features stuffed into its refined design. … [+2768 chars]"
+            "author": "Benedict Evans",
+            "title": "Leaving Twitter",
+            "description": "I was on Twitter since 2007, and built a meaningful part of my career on \nit, and I won’t be posting at all for the foreseeable future",
+            "url": "https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter",
+            "urlToImage": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6536a8308cb930760c397e7a/1698080816215/tumblr_kwkfi5tqEi1qzqh0wo1_1280.jpg?format=1500w",
+            "publishedAt": "2023-10-23T17:05:27Z",
+            "content": "Twitter always used to look a lot like Craigslist. It stumbled into something that a lot of people found very useful, with very strong network effects, and then it squatted on those network effects f… [+7317 chars]"
         },
         {
             "source": {
-                "id": "techradar",
-                "name": "TechRadar"
+                "id": null,
+                "name": "Donanimhaber.com"
             },
-            "author": "Roland Moore-Coyler",
-            "title": "The Google Pixel 8 Pro is smarter... and stranger than ever",
-            "description": "We don't know who asked for it but the Google Pixel 8 Pro has a temperature sensor",
-            "url": "https://www.techradar.com/phones/google-pixel-phones/1-minute-news-google-pixel-8-pro-arrives-with-big-camera-upgrades-and-a-whole-lotta-ai",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fG5zZYYurS5DGkQhQqgCqY-1200-80.jpg",
-            "publishedAt": "2023-10-04T14:31:29Z",
-            "content": "What’s the story? \r\nThe Google Pixel 8 Pro has been revealed in full, bringing in upgraded cameras, a new powerful Tensor G3 chip, and a mixture of AI smart in a refined design. Oh, and it has a temp… [+3047 chars]"
+            "author": "İlkcan Girgin",
+            "title": "Çin, en güçlü kartını kullandı: Otomobil endüstrisini sarsabilir",
+            "description": "ABD ve Çin arasında yaşanan teknolojik gerilim, ivme kazanmaya devam ediyor. Son olarak Pekin, araç pillerinde hayati önem taşıyan bir malzemenin daha ihracatına kısıtlama getirdi.",
+            "url": "https://www.donanimhaber.com/cin-en-guclu-kartini-kullandi-otomobil-endustrisini-sarsabilir--170096",
+            "urlToImage": "https://www.donanimhaber.com/images/images/haber/170096/src_340x1912xcin-en-guclu-kartini-kullandi-otomobil-endustrisini-sarsabilir.jpg",
+            "publishedAt": "2023-10-23T17:05:00Z",
+            "content": "a').click(); event.preventDefault();\"&gt;Tam Boyutta GörBildiiniz gibi ABD ve Çin arasnda süre gelen teknoloji gerilimi, sert yaptrmlar ile sonuçlanmaya devam ediyor. Daha önce ABD'nin müttefik ülkel… [+1927 chars]"
         },
         {
             "source": {
-                "id": "t3n",
-                "name": "T3n"
+                "id": null,
+                "name": "Iphones.ru"
             },
-            "author": "Andreas Floemer",
-            "title": "Pixel 8 und 8 Pro: Google lässt Samsung bei Updates alt aussehen",
-            "description": "Googles neue Smartphone-Generation ist offiziell: Mit dem Pixel 8 und 8 Pro geht der Hersteller auf Konfrontat",
-            "url": "https://t3n.de/news/google-pixel-8-8-pro-update-ausstattung-preise-farben-1579840/",
-            "urlToImage": "https://t3n.de/news/wp-content/uploads/2023/10/google-pixel-8-pro_hero.jpg",
-            "publishedAt": "2023-10-04T14:30:49Z",
-            "content": "Mit dem Pixel 8 und 8 Pro zeigt der Konzern, dass bei vier Jahren Android-Updates, wie Samsung sie derzeit bietet, noch lange nicht Schluss sein muss. Auch die fünf Jahre Sicherheitspatches von Samsu… [+14984 chars]"
+            "author": "Илья Сидоров",
+            "title": "Илон Маск лично потерял $30 млрд всего за 2 дня, а Tesla больше не инновация. Что происходит",
+            "description": "Илон Маск потерял $30 млрд за два дня. Это случилось после того, как Tesla отчиталась за третий квартал. Инвесторы, аналитики и СМИ отмечают, что это один из самых худших кварталов Tesla с точки зрения отчетности, а финансовые результаты не соответствуют и бе…",
+            "url": "https://www.iphones.ru/iNotes/ilon-mask-lichno-poteryal-30-mlrd-vsego-za-2-dnya-a-tesla-bolshe-ne-innovaciya-chto-proiskhodit-10-23-2023",
+            "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2023%2F10%2F180817093757-elon-musk-tesla-model-s.jpg",
+            "publishedAt": "2023-10-23T17:00:46Z",
+            "content": "$30 . , Tesla .\r\n, , Tesla , .\r\n Tesla .\r\n Tesla 13% , \r\n19 Tesla 2023 . $23,4 , $1,85 .\r\n 7,6%, 66 , 10% . \r\n , Tesla, 17 $254 , 19 13%, $220. $90 , $30 .\r\n , - Cybertruck\r\nTesla, . - , , , Tesla .\r… [+546 chars]"
         },
         {
             "source": {
-                "id": "t3n",
-                "name": "T3n"
+                "id": null,
+                "name": "Elconfidencialdigital.com"
             },
-            "author": "Andreas Floemer",
-            "title": "Pixel Watch 2: Googles 2. Smartwatch ist mehr Fitbit denn je",
-            "description": "Mehr Leistung, mehr Puste und neue Sensoren: Google hat die Pixel Watch 2 offiziell angekündigt. Sie wird noch",
-            "url": "https://t3n.de/news/pixel-watch-2-googles-2-smartwatch-ist-mehr-fitbit-denn-je-1579998/",
-            "urlToImage": "https://t3n.de/news/wp-content/uploads/2023/10/google-pixel-watch-2-charcoal.jpg",
-            "publishedAt": "2023-10-04T14:30:36Z",
-            "content": "Nach dem Debüt der ersten eigenen Smartwatch aus dem Hause Google im Oktober 2022, die für einen Erstling gar nicht so schlecht war, kommt nun der Nachfolger. Die Pixel Watch 2 sieht optisch zwar gen… [+8004 chars]"
+            "author": "Agencias",
+            "title": "Akiles planea convocar junta extraordinaria en noviembre para trasladar su sede social a Luxemburgo",
+            "description": "Este punto se incluye en las condiciones precedentes al acuerdo de inversión con el grupo checo Tesla MADRID, 23 (EUROPA PRESS) El consejo de administración de Akiles prevé acordar en la primera quincena de noviembre la convocatoria de...",
+            "url": "https://www.elconfidencialdigital.com/articulo/ultima-hora/akiles-planea-convocar-junta-extraordinaria-noviembre-trasladar-sede-social-luxemburgo/20231023165248657007.html",
+            "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/10/23/2023102316524826389.jpg",
+            "publishedAt": "2023-10-23T16:52:48Z",
+            "content": "Este punto se incluye en las condiciones precedentes al acuerdo de inversión con el grupo checo Tesla \r\n MADRID, 23 (EUROPA PRESS)\r\n El consejo de administración de Akiles prevé acordar en la primera… [+2897 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Wealthofgeeks.com"
             },
-            "author": "Allison Johnson",
-            "title": "The Pixel 8 Pro hands-on: better cameras, a brighter screen, and new AI",
-            "description": "The Google Pixel 8 Pro is here with all the AI camera features we anticipated. There’s also an updated screen, a much improved software support policy, and a temperature scanner for... well, we’re not sure.",
-            "url": "http://www.theverge.com/23900556/google-pixel-8-pro-hands-on-specs-price-launch",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/cV8L8ZgJH0P3ulReT37-hP7u1qI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24971367/236823_Pixel_8_8Pro_Watch2_VPavic_0012.jpg",
-            "publishedAt": "2023-10-04T14:30:00Z",
-            "content": "The Pixel 8 Pro has better cameras, a brighter screen, and a lot of new AI tricks\r\nThe Pixel 8 Pro has better cameras, a brighter screen, and a lot of new AI tricks\r\n / Googles high-end slab-style ph… [+5777 chars]"
+            "author": "Jarret Hendrickson",
+            "title": "Recent Social Media Posts Fuel Speculation That Tesla’s Cybertruck Is Bulletproof",
+            "description": "Oracle co-founder Larry Ellison excited us in September when he teased that his company was developing a next-generation police cruiser that sounded like something from ... Read More",
+            "url": "https://wealthofgeeks.com/social-media-posts-cybertruck-bulletproof/",
+            "urlToImage": "https://wealthofgeeks.com/wp-content/uploads/2023/10/cybertruck2-1.jpg",
+            "publishedAt": "2023-10-23T16:45:17Z",
+            "content": "Oracle co-founder Larry Ellison excited us in September when he teased that his company was developing a next-generation police cruiser that sounded like something from the classic 80s sci-fi movie R… [+2820 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Tom's Guide"
             },
-            "author": "Victoria Song",
-            "title": "Google Pixel Watch 2 hands-on: new sensors, longer battery, better accuracy",
-            "description": "The $349.99 Pixel Watch 2 doesn’t look too different but adds a new processor, EDA sensor, skin temperature sensor, and 24 hours of battery life with the always-on display enabled.",
-            "url": "http://www.theverge.com/23896271/pixel-watch-2-hands-on-google-price-specs",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5l_CIAhJMkEdHxn-hAmT6aNAYgE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24971372/236823_Pixel_8_8Pro_Watch2_VPavic_0017.jpg",
-            "publishedAt": "2023-10-04T14:30:00Z",
-            "content": "The Pixel Watch 2 adds new sensors, longer battery life, and better accuracy\r\nThe Pixel Watch 2 adds new sensors, longer battery life, and better accuracy\r\n / Fitbit CEO James Park says the Pixel Wat… [+7389 chars]"
+            "author": "Antoine Barsacq",
+            "title": "Cybertruck : Tesla met sa carrosserie à l’épreuve des balles, comment s’en sort-il ?",
+            "description": "Un Cybertruck aperçu sur la route criblé de balles semble montrer que Tesla n'abandonne pas ses espoirs de rendre le pick-up électrique résistant aux balles. Après avoir vidé un chargeur camembert entier d'un pistolet-mitrailleur Thompson, voici le résultat. …",
+            "url": "https://www.tomsguide.fr/cybertruck-tesla-met-sa-carrosserie-a-lepreuve-des-balles-comment-sen-sort-il/",
+            "urlToImage": "https://www.tomsguide.fr/content/uploads/sites/2/2023/10/Tesla-Cybertruck-interieur-video.jpg",
+            "publishedAt": "2023-10-23T16:45:00Z",
+            "content": "Un Cybertruck aperçu sur la route criblé de balles semble montrer que Tesla n’abandonne pas ses espoirs de rendre le pick-up électrique résistant aux balles. Après avoir vidé un chargeur camembert en… [+2726 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Jalopnik"
             },
-            "author": "Allison Johnson",
-            "title": "Google Photos’ new AI tools for Pixel 8 raise messy questions",
-            "description": "New AI tools are coming to Google Photos with the Pixel 8. Features like Magic Editor that let you reimagine the lighting and composition of your image raise the age-old question: what is a photo?",
-            "url": "http://www.theverge.com/23902248/google-photos-pixel-8-ai-magic-editor-best-take-audio-magic-eraser",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Tc2rlAyfQfsxzfUPn6Fmlk2IpJs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24971357/236823_Pixel_8_8Pro_Watch2_VPavic_0002.jpg",
-            "publishedAt": "2023-10-04T14:30:00Z",
-            "content": "Google Photos new AI tools are as complicated and messy as a memory\r\nGoogle Photos new AI tools are as complicated and messy as a memory\r\n / Google Photos VP Shimrit Ben-Yair sat down with us to talk… [+5043 chars]"
+            "author": "Bradley Brownell",
+            "title": "How Much Tesla Can A Tesla Line Worker Afford?",
+            "description": "A few weeks ago a ton of you were interested to find out what an average Ford worker could afford, based on the company’s offer to the UAW, which still has not been resolved. Many commenters made it clear that they didn’t like the fact that a Ford factory wor…",
+            "url": "https://jalopnik.com/how-much-tesla-can-a-tesla-line-worker-afford-1850950159",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0d54ec9085fc803ee943c87020e3f817.png",
+            "publishedAt": "2023-10-23T16:45:00Z",
+            "content": "A few weeks ago a ton of you were interested to find out what an average Ford worker could afford, based on the companys offer to the UAW, which still has not been resolved. Many commenters made it c… [+7123 chars]"
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": null,
+                "name": "Biztoc.com"
             },
-            "author": "Wired",
-            "title": "Google Pixel 8, Pixel 8 Pro, Pixel Watch 2 (2023): Features, Specs, Release Date",
-            "description": "The new Pixel 8 and Pixel 8 Pro smartphones have price jumps and a slew of new features, and Google’s latest smartwatch and earbuds got upgrades.",
-            "url": "https://www.wired.com/story/google-october-2023-hardware-event-pixel-8-pixel-8-pro-pixel-watch-2/",
-            "urlToImage": "https://media.wired.com/photos/651c68d0b5352f3926e7cc53/191:100/w_1280,c_limit/Pixel-Watch-2-SOURCE-Google-Gear.jpg",
-            "publishedAt": "2023-10-04T14:30:00Z",
-            "content": "You'll be hard-pressed to find this next new feature on another smartphone: a temperature sensor. This is exclusive to the Pixel 8 Pro. Google says you're able to measure the temperature of almost an… [+3617 chars]"
+            "author": "investors.com",
+            "title": "Paccar Earnings To Roll Up 44%, But Growth Is Slowing For The Tesla Semi Rival",
+            "description": "The Class 8 truck ordering season got off to a strong start. Delivery outlook will be key during the Paccar earnings report. The post Paccar Earnings To Roll Up 44%, But Growth Is Slowing For The Tesla Semi Rival appeared first on Investor's Business Daily.#p…",
+            "url": "https://biztoc.com/x/c5c77fa77a46faed",
+            "urlToImage": "https://c.biztoc.com/253/og.png",
+            "publishedAt": "2023-10-23T16:44:18Z",
+            "content": "The Class 8 truck ordering season got off to a strong start. Delivery outlook will be key during the Paccar earnings report.The post Paccar Earnings To Roll Up 44%, But Growth Is Slowing For The Tesl… [+116 chars]"
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": null,
+                "name": "Wccftech"
             },
-            "author": "Wired",
-            "title": "Google Assistant Finally Gets a Generative AI Glow-Up",
-            "description": "Google is adding AI capabilities from its chatbot Bard to the humble Google Assistant, allowing the virtual helper to make sense of images and draw on data in documents and emails.",
-            "url": "https://www.wired.com/story/google-assistant-multi-modal-upgrade-bard-generative-ai",
-            "urlToImage": "https://media.wired.com/photos/651cc90ed7c9e68a29328982/191:100/w_1280,c_limit/Google-Assistant-Gets-AI-Chatbot-Business-669306716.jpg",
-            "publishedAt": "2023-10-04T14:30:00Z",
-            "content": "David Ferrucci, CEO of AI company Elemental Cognition and previously the lead on IBMs Watson project, says language models have removed a great deal of the complexity from building useful assistants.… [+3293 chars]"
+            "author": "Rohail Saleem",
+            "title": "Tesla’s Fundamentals Can Only Justify a Stock Price of Around $85 Per Share",
+            "description": "It was not that long ago when a dwindling but persevering band of Tesla short-sellers would receive near-constant tirades for having entered into a widow-maker trade. No Longer. The patina […]\nWritten by Rohail Saleem",
+            "url": "https://wccftech.com/tesla-fundamentals-can-only-justify-a-stock-price-of-around-85-per-share/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/10/DSC02448-1.jpg",
+            "publishedAt": "2023-10-23T16:42:17Z",
+            "content": "This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy.\r\nIt was not that long ago when a dwindling but persevering b… [+4760 chars]"
         },
         {
             "source": {
-                "id": "techradar",
-                "name": "TechRadar"
+                "id": null,
+                "name": "MarketWatch"
             },
-            "author": "Alex Walker-Todd",
-            "title": "Google Pixel 8 launches with new cameras, Tensor G3 and AI smarts – but there's a catch",
-            "description": "A refined design, improved cameras and smart AI tech comes at a cost",
-            "url": "https://www.techradar.com/phones/google-pixel-phones/1-minute-news-google-pixel-8-unveiled-with-pro-features-including-120hz-display",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/h2D4MStvRyP5f4NTavCB98-1200-80.jpg",
-            "publishedAt": "2023-10-04T14:27:31Z",
-            "content": "What's the story?\r\nGoogle unveiled the Google Pixel 8 at its October 4 Google Pixel 8 event, where we got to see the phone and its smart features in action. But it comes at a cost. \r\nThe company's ne… [+3952 chars]"
+            "author": "Claudia Assis",
+            "title": ": Tesla discloses more Justice Department probes",
+            "description": "Tesla Inc. has received requests for information, including subpoenas, from the Justice Department.",
+            "url": "https://www.marketwatch.com/story/tesla-discloses-more-justice-department-probes-c7a08012",
+            "urlToImage": "https://images.mktw.net/im-872035/social",
+            "publishedAt": "2023-10-23T16:35:04Z",
+            "content": "Tesla Inc. said that it has received requests for information, including subpoenas, from the Justice Department, and disclosed a range of fresh legal problems in a filing Monday.These included Justic… [+1315 chars]"
         },
         {
             "source": {
-                "id": "engadget",
-                "name": "Engadget"
+                "id": null,
+                "name": "Numerama"
             },
-            "author": "Stephanie Barnes",
-            "title": "Gmail is getting more tools to help battle spam email",
-            "description": "Google is introducing new measures to prevent spam emails from landing in your inbox. The new measures will come with additional steps for bulks senders.",
-            "url": "https://www.engadget.com/gmail-is-getting-more-tools-to-help-battle-spam-email-185900274.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nUdAjorjVcZE7iLqB5xwfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/05b31f30-621e-11ee-bfbf-f8451c812251",
-            "publishedAt": "2023-10-03T18:59:00Z",
-            "content": "Email spam\r\n has been around since the inception of email and things have only gotten spammier\r\n. However, Google is looking to fix that with new inbox protection measures. In a recent blog post\r\n, G… [+2300 chars]"
+            "author": "Raphaëlle Baut",
+            "title": "Pour avoir le Fisker Ocean au meilleur prix, il faut commander sa voiture électrique maintenant",
+            "description": "Fisker adapte les prix de ses différentes variantes du Fisker Ocean. Certains tarifs augmentent, d’autres baissent. Voilà ce qu’il faut retenir de ces changements prévus pour certains seulement après le 5 novembre.",
+            "url": "https://www.numerama.com/vroom/1539676-pour-avoir-le-fisker-ocean-au-meilleur-prix-il-faut-commander-sa-voiture-electrique-maintenant.html",
+            "urlToImage": "https://www.numerama.com/wp-content/uploads/2023/05/henrik-fisker-firstdelivery.jpg",
+            "publishedAt": "2023-10-23T16:34:20Z",
+            "content": "Fisker adapte les prix de ses différentes variantes du Fisker Ocean. Certains tarifs augmentent, dautres baissent. Voilà ce quil faut retenir de ces changements prévus pour certains seulement après l… [+3974 chars]"
         },
         {
             "source": {
-                "id": "engadget",
-                "name": "Engadget"
+                "id": null,
+                "name": "Biztoc.com"
             },
-            "author": "Kris Holt",
-            "title": "How to watch Google unveil the Pixel 8",
-            "description": "It's Google's turn to hold a big fall hardware showcase. You can watch the Made by Google event live right here to learn all about the Pixel 8 lineup and the...",
-            "url": "https://www.engadget.com/google-pixel-2023-how-to-watch-130033919.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-08/7e1d0ef0-470b-11ee-8ed3-a0ef6f638819",
-            "publishedAt": "2023-10-03T13:00:33Z",
-            "content": "It's Google's turn to step up to the plate and swing for the fences with a fall hardware event. The company is holding a Pixel showcase in New York City, and you're invited at least to tune into a li… [+1569 chars]"
+            "author": "fortune.com",
+            "title": "Elon Musk’s Tesla subpoenaed over its FSD self-driving feature",
+            "description": "Elon Musk has bet the farm on his ability to pivot Tesla from a pioneering manufacturer of electric vehicles to a market leader in the booming field of artificial intelligence. The linchpin of his efforts have revolved around “Full-Self Driving” (FSD), a feat…",
+            "url": "https://biztoc.com/x/6dc3108242be2cc2",
+            "urlToImage": "https://c.biztoc.com/p/6dc3108242be2cc2/s.webp",
+            "publishedAt": "2023-10-23T16:34:06Z",
+            "content": "Elon Musk has bet the farm on his ability to pivot Tesla from a pioneering manufacturer of electric vehicles to a market leader in the booming field of artificial intelligence.The linchpin of his eff… [+286 chars]"
         },
         {
             "source": {
-                "id": "recode",
-                "name": "Recode"
+                "id": "il-sole-24-ore",
+                "name": "Il Sole 24 Ore"
             },
-            "author": "Sara Morrison",
-            "title": "Google, Microsoft, and Amazon are pushing their latest AI assistants, ready or not",
-            "description": "Big Tech has a vision for generative AI. Will it work?",
-            "url": "https://www.vox.com/2023/9/23/23886163/google-microsoft-amazon-generative-ai-assistants",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/vLOlPQzF2gZwc9q6_fj9m6j33t0=/0x93:5701x3078/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24945137/GettyImages_1253646800.jpg",
-            "publishedAt": "2023-09-23T12:00:00Z",
-            "content": "We got a trio of generative AI announcements from three Big Tech companies this week. Google said on Tuesday that it is extending Bard to several of its apps, including Gmail and Docs. The next day, … [+7060 chars]"
+            "author": "di Massimo Mambretti",
+            "title": "Toyota accelera sull’elettrico con nuove tecnologie, 10 modelli e 4 tipi di batterie",
+            "description": "La casa giapponese al salone di Tokyo espone concept che anticipano inedite tecnologie dedicate ai futuri modelli, che si avvantaggeranno anche di nuove tipologie di batterie.",
+            "url": "https://www.ilsole24ore.com/art/toyota-accelera-sull-elettrico-nuove-tecnologie-10-modelli-e-4-tipi-batterie-AFjSrKMB",
+            "urlToImage": "https://i2.res.24o.it/images2010/2023/10/AFjSrKMB/images/571d5f28-71c0-11ee-8777-b9f6a46b199a-fotohome0.jpg",
+            "publishedAt": "2023-10-23T16:32:58Z",
+            "content": "Ascolta la versione audio dell'articolo\r\n3' di lettura\r\nToyota si concentra sulle auto elettriche dopo molti altri costruttori e aver a lungo ponderato questa scelta, contrastata in passato dallo sce… [+3648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Claudia Assis",
+            "title": "Tesla discloses more Justice Department probes",
+            "description": "Tesla Inc. has received requests for information, including subpoenas, from the Justice Department.",
+            "url": "https://www.marketwatch.com/story/tesla-discloses-more-justice-department-probes-c7a08012",
+            "urlToImage": "https://images.mktw.net/im-872035/social",
+            "publishedAt": "2023-10-23T16:31:00Z",
+            "content": "Tesla Inc. said that it has received requests for information, including subpoenas, from the Justice Department, and disclosed a range of fresh legal problems in a filing Monday.These included Justic… [+1315 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Descubreapple.com"
+            },
+            "author": "Jaime Gomez",
+            "title": "¿Es el Apple Car una realidad? Lo que sabemos hasta ahora",
+            "description": "El Apple Car, surgido del \"Project Titan\", es objeto de rumores desde 2014. Aunque Apple ha presentado patentes automotrices y contratado expertos, su enfoque exacto permanece incierto.",
+            "url": "https://www.descubreapple.com/es-apple-car-realidad-sabemos-hasta-ahora.html",
+            "urlToImage": "https://i.bssl.es/descubreapple/2023/10/apple-car-1024x576.jpg",
+            "publishedAt": "2023-10-23T16:30:46Z",
+            "content": "Apple ha sido durante mucho tiempo el epicentro de rumores y especulaciones en el mundo tecnológico. Desde sus icónicos iPhones hasta el rumorado Apple Car, el gigante tecnológico nunca deja de sorpr… [+2559 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mobiFlip.de"
+            },
+            "author": "Oliver Schwuchow",
+            "title": "Elektroautos: Volkswagen hinkt Tesla und BYD weit hinterher",
+            "description": "Toyota ist Marktführer bei Autos, findet beim Markt der Zukunft, der elektrisch ist, quasi gar nicht statt. Sollte da nicht mit Hochdruck ein Wandel kommen, sehe ich die Zukunft der […]",
+            "url": "https://www.mobiflip.de/shortnews/elektroautos-volkswagen-hinkt-tesla-und-byd-weit-hinterher/",
+            "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/03/vw-id3-2023-licht-header-volkswagen.jpg",
+            "publishedAt": "2023-10-23T16:30:46Z",
+            "content": "Toyota ist Marktführer bei Autos, findet beim Markt der Zukunft, der elektrisch ist, quasi gar nicht statt. Sollte da nicht mit Hochdruck ein Wandel kommen, sehe ich die Zukunft der Marke kritisch, d… [+2059 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Reuters",
+            "title": "Elon Musk says feds issued subpoenas over Tesla Autopilot crash probe",
+            "description": "The requests for documents are related to Autopilot and FSD features and other requests \"associated with personal benefits, related parties, vehicle range and personnel decisions.\"",
+            "url": "https://nypost.com/2023/10/23/business/elon-musk-says-feds-issued-subpoenas-over-tesla-autopilot-probe/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/elon-musk-tesla-doj-probe.jpg?quality=75&strip=all&1698058792&w=1024",
+            "publishedAt": "2023-10-23T16:30:15Z",
+            "content": "The Justice Department has sought documents and issued subpoenas to Tesla as it scrutinizes the automaker’s driver assistance system Autopilot and vehicle driving range, among other issues, the compa… [+2208 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Christiaan Hetzner",
+            "title": "Elon Musk’s Tesla subpoenaed over its FSD self-driving feature—'There exists the possibility of a material adverse impact on our business'",
+            "description": "In a regulatory disclosure, the EV maker revealed the Department of Justice had escalated its probe into Tesla's autonomous driving technology.",
+            "url": "https://fortune.com/2023/10/23/elon-musk-tesla-subpoena-fsd-autopilot-justice-department-law-enforcement/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1678530091-4-e1698075509607.jpg?resize=1200,600",
+            "publishedAt": "2023-10-23T16:28:18Z",
+            "content": "Elon Musk has bet the farm on his ability to pivot Tesla from a pioneering manufacturer of electric vehicles to a market leader in the booming field of artificial intelligence.The linchpin of his eff… [+3531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Umwelt: Große Bedenken gegen Tesla-Ausbau",
+            "description": "US-Autobauer Tesla will sein Werk in Grünheide ausbauen. Das ruft Kritik hervor, denn die Fabrik liegt teils im Wasserschutzgebiet. Umweltschützer bleiben einer Anhörung allerdings fern.",
+            "url": "https://www.stern.de/digital/umwelt--grosse-bedenken-gegen-tesla-ausbau-33937308.html",
+            "urlToImage": "https://image.stern.de/33937310/t/7N/v3/w1440/r1.7778/-/23--urnnewsmldpacom2009010123102399670228v3w800h600l514t417r1786b1395jpeg---a99bbc6ad1ec5233.jpg",
+            "publishedAt": "2023-10-23T16:24:40Z",
+            "content": "US-Autobauer Tesla will sein Werk in Grünheide ausbauen. Das ruft Kritik hervor, denn die Fabrik liegt teils im Wasserschutzgebiet. Umweltschützer bleiben einer Anhörung allerdings fern.\r\nDer geplant… [+3383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wealthofgeeks.com"
+            },
+            "author": "Madison Cates",
+            "title": "Tesla Faces U.S. Department of Justice Subpoenas: What’s Under Investigation?",
+            "description": "According to a report by Automotive News, Tesla, Inc. faces a subpoena from the Department of Justice (DOJ) regarding their driving range documents.  The company's ... Read More",
+            "url": "https://wealthofgeeks.com/tesla-doj-subpoena/",
+            "urlToImage": "https://wealthofgeeks.com/wp-content/uploads/2023/09/Musk-1.jpg",
+            "publishedAt": "2023-10-23T16:19:52Z",
+            "content": "According to a report by Automotive News, Tesla, Inc. faces a subpoena from the Department of Justice (DOJ) regarding their driving range documents. \r\nThe company's regulatory filing shows that the D… [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Laurel Rosenhall",
+            "title": "After Israel visit, Newsom heads to China for climate talks. But can he avoid global conflicts?",
+            "description": "Gov. Gavin Newsom's voyage to Israel and China marks a sudden leap into foreign affairs for the California governor who insists he is not angling to run for president.",
+            "url": "https://www.latimes.com/california/story/2023-10-23/gavin-newsom-california-israel-visit-arrives-china-hong-kong-climate-talks",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/0d175d0/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7f%2Fec%2Fd5c5a247425086e6cf3b5982d1fa%2Fhong-kong-us-newsom-33901.jpg",
+            "publishedAt": "2023-10-23T16:19:21Z",
+            "content": "HONG KONG  Gov. Gavin Newsom comforted a mother whose son was kidnapped by Hamas, and visited a hospital where Israelis were recovering from injuries from the Oct. 7 attacks. He met with top Israeli … [+9508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "wsj.com",
+            "title": "Tesla Received Subpoenas Over Autopilot System",
+            "description": "The Justice Department has requested additional information, including through subpoenas, from Tesla as it investigates the electric-vehicle manufacturer’s autopilot technology. Justice Department also requested information through subpoenas from Tesla regard…",
+            "url": "https://biztoc.com/x/0abefe1aff6bfcc5",
+            "urlToImage": "https://c.biztoc.com/p/0abefe1aff6bfcc5/s.webp",
+            "publishedAt": "2023-10-23T16:18:05Z",
+            "content": "The Justice Department has requested additional information, including through subpoenas, from Tesla as it investigates the electric-vehicle manufacturers autopilot technology.Justice Department also… [+236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "siliconrepublic.com",
+            "title": "In hot water: Web Summit saga points to bigger issues in tech leadership",
+            "description": "After a turbulent week, Paddy Cosgrave resigned as CEO of Web Summit. But he’s far from the first leader to suffer at the hands of his own words. Following comments regarding the ongoing Israel-Hamas conflict in Israel and Palestine, Web Summit co-founder Pad…",
+            "url": "https://biztoc.com/x/94752566908d6d0f",
+            "urlToImage": "https://c.biztoc.com/p/94752566908d6d0f/s.webp",
+            "publishedAt": "2023-10-23T16:16:33Z",
+            "content": "After a turbulent week, Paddy Cosgrave resigned as CEO of Web Summit. But hes far from the first leader to suffer at the hands of his own words.Following comments regarding the ongoing Israel-Hamas c… [+298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "marketwatch.com",
+            "title": "Tesla recalls nearly 55,000 Model X EVs for brake issue",
+            "description": "Tesla Inc. is voluntarily recalling nearly 55,500 Model X electric vehicles made in the past two years, as the vehicles’ controllers may fail to detect low brake fluid and not display a warning light. “Without a warning light, the vehicle may be driven with l…",
+            "url": "https://biztoc.com/x/fb7e2ca1ddae50a5",
+            "urlToImage": "https://c.biztoc.com/p/fb7e2ca1ddae50a5/og.webp",
+            "publishedAt": "2023-10-23T16:15:12Z",
+            "content": "Tesla Inc. is voluntarily recalling nearly 55,500 Model X electric vehicles made in the past two years, as the vehicles controllers may fail to detect low brake fluid and not display a warning light.… [+240 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "marketwatch.com",
+            "title": "Tesla stock bounces sharply intraday, but is still in danger of biggest 4-day drop this year",
+            "description": "Shares of Tesla Inc. have bounced sharply in intraday trading, but are still on track to suffer the worst four-day performance this year. The electric vehicle maker’s stock sank as much as 4.5% within the first 15 minutes after the opening bell, before paring…",
+            "url": "https://biztoc.com/x/47cdfd8bc6080bbb",
+            "urlToImage": "https://c.biztoc.com/p/47cdfd8bc6080bbb/og.webp",
+            "publishedAt": "2023-10-23T16:15:11Z",
+            "content": "Shares of Tesla Inc. have bounced sharply in intraday trading, but are still on track to suffer the worst four-day performance this year. The electric vehicle makers stock sank as much as 4.5% within… [+241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "theverge.com",
+            "title": "DOJ probing Tesla’s EV range after reports of exaggerated numbers",
+            "description": "The US Department of Justice (DOJ) is investigating the range of Tesla’s electric vehicles after reports surfaced that the company was relying on exaggerated numbers. In documents filed with the Securities and Exchange Commission, Tesla said that it had “rece…",
+            "url": "https://biztoc.com/x/79d61f344792b851",
+            "urlToImage": "https://c.biztoc.com/p/79d61f344792b851/og.webp",
+            "publishedAt": "2023-10-23T16:14:11Z",
+            "content": "The US Department of Justice (DOJ) is investigating the range of Teslas electric vehicles after reports surfaced that the company was relying on exaggerated numbers.In documents filed with the Securi… [+265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kommersant.ru"
+            },
+            "author": "Анастасия Ларина",
+            "title": "В Госдуме предложили разрешить размещение рекламы на ракетах",
+            "description": "Депутаты и сенаторы внесли в Госдуму законопроект, которые разрешают устанавливать рекламу на объекты космической инфраструктуры и размещать рекламу на космической технике. Документ уже опубликован в базе Госдумы.",
+            "url": "https://www.kommersant.ru/doc/6296465",
+            "urlToImage": "https://iv.kommersant.ru/SocialPics/6296465_49_0_474839244",
+            "publishedAt": "2023-10-23T16:14:06Z",
+            "content": ", . .\r\n , , «», . «» 200 . , 5 . .\r\n «». , «». \r\n , . , .\r\n - «», «» , , . «», , .\r\n 2018 Falcon Heavy . Tesla Roadster , . , , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "nytimes.com",
+            "title": "Nonunion Workers Are Playing a Big Role in the Autoworkers’ Strike",
+            "description": "The United Automobile Workers union views its strike as a step toward better pay for both union and nonunion workers. The three U.S. automakers say they are already at a disadvantage to nonunion rivals while labor leaders hope that big gains in negotiations w…",
+            "url": "https://biztoc.com/x/87f1c545549743d2",
+            "urlToImage": "https://c.biztoc.com/p/87f1c545549743d2/s.webp",
+            "publishedAt": "2023-10-23T16:12:34Z",
+            "content": "The United Automobile Workers union views its strike as a step toward better pay for both union and nonunion workers.The three U.S. automakers say they are already at a disadvantage to nonunion rival… [+288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kommersant.ru"
+            },
+            "author": "Коммерсантъ",
+            "title": "Tesla сообщила о проверках и вызовах в суд со стороны Минюста США",
+            "description": "Tesla сообщила о том, что Министерство юстиции США ведет проверки в отношении компании, в том числе связанные с работой ее системы беспилотного движения Autopilot. Компания заявила, что Минюст США запрашивал у нее документы по этому вопросу, а также вызывал е…",
+            "url": "https://www.kommersant.ru/doc/6296466",
+            "urlToImage": "https://iv.kommersant.ru/SocialPics/6296466_49_0_102719124",
+            "publishedAt": "2023-10-23T16:10:55Z",
+            "content": "Tesla , , Autopilot. , , . , Tesla , 23 . , , , « , - - ».\r\nReuters , , Tesla. 2021 Tesla , , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livios.be"
+            },
+            "author": "in samenwerking met Livios",
+            "title": "De wateraccu: goedkoper alternatief voor de thuisbatterij om je overtollige zonne-energie op te slaan?",
+            "description": "De rendementsanalyse van een klassieke thuisbatterij blijkt niet altijd even gunstig. De Nederlandse start-up Solyx Energy claimt een goedkoper alternatief te bieden door overtollige zonne-energie op te slaan in de warmwaterboiler. Bouwsite Livios ging na hoe…",
+            "url": "https://www.livios.be/nl/artikel/65498/zonne-energie-opslaan-wateraccu-als-alternatief-voor-de-thuisbatterij/",
+            "urlToImage": "https://images0.persgroep.net/rcs/wEX-DBzE_MzrNjOzMKSHPaTY4ZQ/diocontent/236563150/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
+            "publishedAt": "2023-10-23T16:01:58Z",
+            "content": "Voor de energie die je zonnepanelen opwekken en die je niet meteen kunt verbruiken, gelden momenteel twee pistes. Wie niet investeert in energieopslag, verkoopt de overtollige stroom aan zijn energie… [+4200 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AutoExpress"
+            },
+            "author": "Richard Ingram",
+            "title": "Deal of the Day: high-tech Tesla Model Y with low 2.9% APR",
+            "description": "Tesla is offering a fantasticly low interest rate on Britain’s best-selling electric car.",
+            "url": "https://www.autoexpress.co.uk/tesla/model-y/361309/deal-day-high-tech-tesla-model-y-low-29-apr",
+            "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1685124664/autoexpress/2023/05/Lexus RZ vs Tesla Model Y-10_wifq3f.jpg",
+            "publishedAt": "2023-10-23T16:01:20Z",
+            "content": "<ul><li>Low 2.9% APR</li><li>Available over two, three or four years</li><li>Access to Supercharger network</li></ul>Few electric cars are as simple to live with as the Tesla Model Y, and now its eve… [+2426 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benchmark.pl"
+            },
+            "author": "Kasia Rutkowska",
+            "title": "Musk zmienił zdanie. Tesla wykopała sobie grób Cybertruckiem",
+            "description": "Po latach oczekiwania pierwsze Cybertrucki Tesli trafią do odbiorców. Tymczasem entuzjazm Elona Muska opadł niczym przekłuty balonik.",
+            "url": "https://www.benchmark.pl/aktualnosci/musk-przestrzelil-z-cybertruckiem.html",
+            "urlToImage": "https://cdn.benchmark.pl/uploads/article/91877/MODERNICON/05628cdd159370d1a26edee706df22f4de3f83dc.jpg",
+            "publishedAt": "2023-10-23T16:00:30Z",
+            "content": "Po latach oczekiwania pierwsze Cybertrucki Tesli trafi do odbiorców. Tymczasem entuzjazm Elona Muska opad niczym przekuty balonik. \r\nTesla zapowiedziaa realizacj dostaw Cybertrucków. Ich pierwsi waci… [+1851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Le Dauphiné Libéré"
+            },
+            "author": "Paul-Émile CASSORET",
+            "title": "Automobile. Les ventes de voitures électriques d'occasion explosent !",
+            "description": "Alors que le marché des véhicules d'occasion est en baisse, les ventes de véhicules électriques de seconde main ne faiblissent pas. Au contraire, elles atteignent des records.",
+            "url": "https://www.ledauphine.com/magazine-automobile/2023/10/23/les-ventes-de-voitures-electriques-d-occasion-explosent-apmu",
+            "urlToImage": "https://cdn-s-www.ledauphine.com/images/B7393921-F1B4-4B61-BD75-AE9C508D050A/FB1200/photo-1697719009.jpg",
+            "publishedAt": "2023-10-23T16:00:00Z",
+            "content": "En un an le marché de l'occasion a bien évolué voyant une part plus importante de véhicules électriques revendus. Au mois de septembre 2023, 8 528 voitures électriques ont été vendues sur le marché d… [+1602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "F.A.Z.",
+            "title": "Umweltschützer boykottieren öffentliche Anhörung zu Tesla-Fabrik in Grünheide",
+            "description": "Unter Protest bleiben Umweltschützer der Anhörung zu den Ausbauplänen von Tesla in Grünheide fern. Der amerikanische Konzern erhitzt die Gemüter.",
+            "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/eklat-um-tesla-erweiterung-19263589.html",
+            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/wirtschaft/2969720538/1.9263587/facebook_teaser/keine-tesla-veranstaltung-ohne.jpg",
+            "publishedAt": "2023-10-23T15:57:57Z",
+            "content": "Der Erörterungstermin zur geplanten Erweiterung der Fa­brik des amerikanischen Elek­troautoherstellers Tesla vor den Toren Berlins begann mit einem ­Eklat. Mehrere Bürgerinitiativen und zahlreiche Um… [+4695 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CleanTechnica"
+            },
+            "author": "Steve Hanley",
+            "title": "These 20 Electric Cars Are Selling For Less Than MSRP",
+            "description": "Electric cars are now being discounted by dealers as supplies have caught up with demand after Covid supply chain issues.",
+            "url": "https://cleantechnica.com/2023/10/23/these-20-electric-cars-are-selling-for-less-than-msrp/",
+            "urlToImage": "https://cleantechnica.com/files/2021/07/Volkswagen-ID4-ID.4-2021-CleanTechnica-Car-of-the-Year-Winner-watermark.jpeg",
+            "publishedAt": "2023-10-23T15:55:13Z",
+            "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nThere are a lot of myths about buying electric cars these days. Many people assume that because Tesla has est… [+7594 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Steve DaSilva",
+            "title": "Elon Musk 'Almost In Tears,' 'Like A Little Baby' On 'Disaster' Earnings Call",
+            "description": "Tesla held its third-quarter earnings call last Wednesday, where management met with investors to talk through the past few months and reevaluate for the road ahead. In that call, CEO Elon Musk laid down some tough numbers: Sales are down, earnings are down, …",
+            "url": "https://jalopnik.com/elon-musk-almost-in-tears-like-a-little-baby-on-disast-1850949809",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9adda6e08cb3423d8d9bdc5d3984ddf2.png",
+            "publishedAt": "2023-10-23T15:55:00Z",
+            "content": "Tesla held its third-quarter earnings call last Wednesday, where management met with investors to talk through the past few months and reevaluate for the road ahead. In that call, CEO Elon Musk laid … [+1516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes.com.mx"
+            },
+            "author": "Forbes Staff",
+            "title": "Arabia Saudí presenta el primer Mundial de eSports para 2024 con CR7 entre los invitados",
+            "description": "Forbes México.\n Arabia Saudí presenta el primer Mundial de eSports para 2024 con CR7 entre los invitados\n\nLa primera Copa Mundial de eSports será 'el mayor evento de su tipo a nivel mundial', y lo organizará anualmente el reino árabe a partir del verano de 20…",
+            "url": "https://www.forbes.com.mx/arabia-saudi-presenta-el-primer-mundial-de-esports-para-2024-con-cr7-entre-los-invitados/",
+            "urlToImage": "https://cdn.forbes.com.mx/2023/01/cristiano-ronaldo.webp",
+            "publishedAt": "2023-10-23T15:53:01Z",
+            "content": "El príncipe heredero saudí, Mohamed bin Salmán, anunció este lunes el lanzamiento de la primera Copa Mundial de eSports, “el mayor evento de su tipo a nivel mundial”, y que organizará anualmente el r… [+2678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fark.com"
+            },
+            "author": null,
+            "title": "Elon Musk comes up with another reason why billionaires shouldn't be allowed to have that much money [Facepalm]",
+            "description": "Elon Musk comes up with another reason why billionaires shouldn't be allowed to have that much money",
+            "url": "https://www.fark.com/comments/13031930/Elon-Musk-comes-up-with-another-reason-why-billionaires-shouldnt-be-allowed-to-have-that-much-money",
+            "urlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
+            "publishedAt": "2023-10-23T15:48:59Z",
+            "content": "asciibaron:AppleOptionEsc: asciibaron: Fark used to love Musk, now he is the antichrist.  this place is weird.  IF you ignore him, he has no impact on your life.\r\nCEO of SpaceX? And Tesla? Do you not… [+665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "thestreet.com",
+            "title": "Ford is beating electric vehicle giant Tesla in one important area",
+            "description": "One of Tesla's biggest claims to fame is its self-driving technology, a system that began as the driver-assist program Autopilot and has since spawned Full-Self Driving as well. Despite the terminology, neither piece of technology results in the car driving i…",
+            "url": "https://biztoc.com/x/5f5d2cd6ad9f0db1",
+            "urlToImage": "https://c.biztoc.com/p/5f5d2cd6ad9f0db1/s.webp",
+            "publishedAt": "2023-10-23T15:48:46Z",
+            "content": "One of Tesla's biggest claims to fame is its self-driving technology, a system that began as the driver-assist program Autopilot and has since spawned Full-Self Driving as well. Despite the terminolo… [+289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "observer.com",
+            "title": "Six Companies Owned By Elon Musk: How the Tech Mogul Manages Them All",
+            "description": "Elon Musk is a busy man, and it’s a perpetual mystery how he splits time across the many companies where he serves one or more leadership roles. The world’s richest man (currently worth $225 billion) once said he regularly worked 80 to 100 hours a week—and th…",
+            "url": "https://biztoc.com/x/645973febbbcbf48",
+            "urlToImage": "https://c.biztoc.com/p/645973febbbcbf48/s.webp",
+            "publishedAt": "2023-10-23T15:44:33Z",
+            "content": "Elon Musk is a busy man, and its a perpetual mystery how he splits time across the many companies where he serves one or more leadership roles. The worlds richest man (currently worth $225 billion) o… [+280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Observer"
+            },
+            "author": "Sissi Cao, Sissi Cao",
+            "title": "Six Companies Owned By Elon Musk: How the Tech Mogul Manages Them All",
+            "description": "Musk's companies span automotive, aerospace, solar energy, infrastructure and artificial intelligence. These seemingly unrelated industries all serve the same goal.",
+            "url": "https://observer.com/2023/10/elon-musk-companies-key-people/",
+            "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2023/10/GettyImages-1499013009.jpg?quality=80&w=635&h=362",
+            "publishedAt": "2023-10-23T15:43:33Z",
+            "content": "Elon Musk runs at least five companies worth over $1 billion. Chesnot/Getty Images\r\nElon Musk is a busy man, and it’s a perpetual mystery how he splits time across the many companies where he serves … [+6237 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "China assusta estrangeiros com prisões e investigação contra a Foxconn",
+            "description": "A Foxconn está na base do crescimento da China como centro de produção e é um símbolo das oportunidades para outras empresas no país, como a Tesla",
+            "url": "https://valor.globo.com/mundo/noticia/2023/10/23/china-assusta-estrangeiros-com-prisoes-e-investigacao-contra-a-foxconn.ghtml",
+            "urlToImage": "https://s2-valor.glbimg.com/HfAOSnJMIPRv77azG-5yHGc4VKg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/q/N/rqtLnhTIuHgnAsY2QBLw/401475202.jpg",
+            "publishedAt": "2023-10-23T15:41:39Z",
+            "content": "As autoridades chinesas voltaram a abalar a confiança das empresas estrangeiras no país, com uma série de prisões em vários setores e uma investigação da Foxconn, principal parceira da Apple na Ásia … [+2871 chars]"
         }
     ]
 }
